@@ -1,5 +1,5 @@
-Project Title: Industrial Production Forecasting using ARIMA and SARIMA
-Project Overview
+
+#Project Overview
 This project aims to develop and evaluate time-series forecasting models to predict industrial production for the next two years. The models used include ARIMA and SARIMA, and the best model is selected based on mean squared error.
 
 Dataset
